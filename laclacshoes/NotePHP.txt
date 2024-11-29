@@ -1,0 +1,2 @@
+chỉnh lại kích thước ảnh trong chi tiết sản phẩm
+- cho chữ gần hình hơn trong chi tiett sp
